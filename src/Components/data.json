@@ -1,0 +1,359 @@
+
+
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "COMMODE",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/HINDWARE_ONE_PIECE_COMMODE1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "WASH BASIN",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/HINDWARE_COUNTER_TOP_WASH_BASIN.jpg"
+        },
+        {
+            "id": 3,
+            "name": "URINAL PLATE",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/HINDWARE_URINAL.jpeg"
+        },
+         {
+            "id": 4,
+            "name": "CONCEALED CISTERN",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/K-26352IN-P-NA_PNEUMATIC__K-26352IN-M-NA_MECHANICAL-removebg-preview%C2%A01.jpg"
+        },
+         {
+            "id": 5,
+            "name": "CISTERNS",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/CISTERN7.jpg"
+        },
+         {
+            "id": 6,
+            "name": "SOFT PRESS VALVE",
+            "image": "https://plumbingbazzar.com/uploads/media/2024/K-31538IN-NA_cat.jpg"
+        }
+    ],
+
+    "transition": [
+        {
+            "id": 1,
+            "name": "KITCHEN FAUCET",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/KITCHEN_FAUCET1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "SENSOR FAUCET",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/SENSOR_FAUCET.jpg"
+        },
+        {
+            "id": 3,
+            "name": "DIVERTER/PLATE/SPOUT",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/DP.jpg"
+        },
+         {
+            "id": 4,
+            "name": "BASIN FAUCET",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/banner.jpg"
+        },
+          {
+            "id": 5,
+            "name": "SHOWER ARM",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/kohler_sho1.jpg"
+        },
+          {
+            "id": 6,
+            "name": "HEAVY FAUCET",
+            "image": "http://plumbingbazzar.com/uploads/media/2023/WhatsApp_Image_2023-06-30_at_12_18_09_PM.jpeg"
+        },
+          {
+            "id": 7,
+            "name": "CONCEALED KIT",
+            "image": "https://plumbingbazzar.com/uploads/media/2024/hindware_csc_catagory.jpg"
+        },
+          {
+            "id": 8,
+            "name": "BIB COCK",
+            "image": "https://plumbingbazzar.com/uploads/media/2025/Untitled_design_(1).png"
+        },
+          {
+            "id": 9,
+            "name": "ANGEL VALVE",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/angle_valve_cat.jpg"
+        },
+          {
+            "id": 10,
+            "name": "FITTINGS",
+            "image": "https://plumbingbazzar.com/uploads/media/2024/FITTINGS.jpg"
+        },
+          {
+            "id": 11,
+            "name": "BATHTUB FAUCET",
+            "image": "https://plumbingbazzar.com/uploads/media/2024/kohler_bathtub_faucet.jpg"
+        },
+          {
+            "id": 12,
+            "name": "WALL MIXER",
+            "image": "https://plumbingbazzar.com/uploads/media/2025/hindware_wall_mixer-removebg-preview.png"
+        },
+         {
+            "id": 13,
+            "name": "WASHING MACHINE",
+            "image": "https://plumbingbazzar.com/uploads/media/2025/parryware_nozzel_tap.jpg"
+        },
+         {
+            "id": 13,
+            "name": "TWO WAY BIB COCK",
+            "image": "https://plumbingbazzar.com/uploads/media/2025/parryware_two_way_bib_cock.jpg"
+        }
+    ],
+
+         "kitchen": [
+        {
+            "id": 1,
+            "name": "TOWEL RING/ROD/RACK",
+            "image": "https://plumbingbazzar.com/uploads/media/2025/accessories_1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "SOAP DISH",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/SOAP_DISH.jpg"
+        },
+        {
+            "id": 3,
+            "name": "TUMBLER HOLDER",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/TUMBLER_HOLDER.jpg"
+        },
+         {
+            "id": 4,
+            "name": "ROBE HOOK",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/robe_hook.jpg"
+        },
+          {
+            "id": 5,
+            "name": "SHELF",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/SHELF.jpg"
+        },
+          {
+            "id": 6,
+            "name": "PAPER HOLDER",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/PAPER_HOLDER.jpg"
+        },
+          {
+            "id": 7,
+            "name": "SOAP DISPENSER",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/SOAP_DISPENSER1.jpg"
+        },
+          {
+            "id": 8,
+            "name": "OTHERS",
+            "image": "https://plumbingbazzar.com/uploads/media/2024/kohler_other_accessories.jpg"
+        }
+    ],
+
+      "kitchenbowl": [
+        {
+            "id": 1,
+            "name": "SINGLE BOWL",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/SINGLE_BOWL_SINK.jpg"
+        },
+        {
+            "id": 2,
+            "name": "MULTIPLE BOWL",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/MULTIPLE_BOWL_SINK.jpg"
+        },
+        {
+            "id": 3,
+            "name": "MODULAR SINK",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/MODULER_SINK.jpg"
+        },
+         {
+            "id": 4,
+            "name": "DRAINBOARD SINK",
+            "image": "https://plumbingbazzar.com/uploads/media/2023/Drain_Board_Sink1.jpg"
+        }
+    ],
+
+    "mirror": [
+        {
+            "id": 1,
+            "name": "PREMIUM LED MIRROR",
+            "image": "https://plumbingbazzar.com/uploads/media/2025/Capital_mirror.jpg"
+        },
+        {
+            "id": 2,
+            "name": "LUXURY LED MIRROR",
+            "image": "https://plumbingbazzar.com/uploads/media/2025/lux_image_1.jpg"
+        },
+        {
+            "id": 3,
+            "name": "ROUND BASIN",
+            "image": "https://plumbingbazzar.com/uploads/media/2025/459328846_1547514189536478_580035177510207627_n1.jpg"
+        },
+         {
+            "id": 4,
+            "name": "RECTANGLE BASIN",
+            "image": "https://plumbingbazzar.com/uploads/media/2025/rectangle_basin_medef1.jpg"
+        },
+          {
+            "id": 5,
+            "name": "OVAL BASIN",
+            "image": "https://plumbingbazzar.com/uploads/media/2025/466131692_1078791157125632_5952478738147266914_n1.jpg"
+        },
+          {
+            "id": 6,
+            "name": "BOWL BASIN",
+            "image": "https://plumbingbazzar.com/uploads/media/2025/459258428_832537618861339_4067299747192049535_n1.jpg"
+        },
+          {
+            "id": 7,
+            "name": "TEXTURE BASIN",
+            "image": "https://plumbingbazzar.com/uploads/media/2025/466370988_911431713854846_1009344886054201399_n1.jpg"
+        },
+          {
+            "id": 8,
+            "name": "FREE STANDING BASIN",
+            "image": "https://plumbingbazzar.com/uploads/media/2025/medef_catagory_image.jpg"
+        },
+        {
+            "id": 9,
+            "name": "HD LED MIRROR",
+            "image": "https://plumbingbazzar.com/uploads/media/2025/MIRROR_WITHOUT_FRAME_1_1.png"
+        },
+        {
+            "id": 10,
+            "name": "HD LED MIRROR FRAME",
+            "image": "https://plumbingbazzar.com/uploads/media/2025/HD_MIRROR_WITH_FRAME.png"
+        }
+    ],
+
+    "product": [
+        {
+            "id":1,
+            "name":"HINDWARE ONE PIECE COMMODE",
+            "img":"https://plumbingbazzar.com/uploads/media/2023/P0447PW0101.jpg",
+            "text":"One piece closets Commode | 92563 (S- 220) | Size: 70.5 x 42.5 x 78.5 cm",
+            "price":12081.50,
+            "rate":16550.00
+        },
+        {
+            "id":2,
+            "name":"HINDWARE ONE PIECE COMMODE",
+            "img":"https://plumbingbazzar.com/uploads/media/2023/P0447PW0101.jpg",
+            "text":"One piece closets Commode | 92563 (S- 220) | Size: 70.5 x 42.5 x 78.5 cm",
+            "price":15081.50,
+            "rate":15550.00
+        },
+        {
+            "id":3,
+            "name":"HINDWARE ONE PIECE COMMODE",
+            "img":"https://plumbingbazzar.com/uploads/media/2023/P0447PW0101.jpg",
+            "text":"One piece closets Commode | 92563 (S- 220) | Size: 70.5 x 42.5 x 78.5 cm",
+            "price":12081.50,
+            "rate":16550.00
+        },
+        {
+            "id":4,
+            "name":"HINDWARE ONE PIECE COMMODE",
+            "img":"https://plumbingbazzar.com/uploads/media/2023/P0447PW0101.jpg",
+            "text":"One piece closets Commode | 92563 (S- 220) | Size: 70.5 x 42.5 x 78.5 cm",
+            "price":12081.50,
+            "rate":16550.00
+        },
+        {
+            "id":5,
+            "name":"HINDWARE ONE PIECE COMMODE",
+            "img":"https://plumbingbazzar.com/uploads/media/2023/P0447PW0101.jpg",
+            "text":"One piece closets Commode | 92563 (S- 220) | Size: 70.5 x 42.5 x 78.5 cm",
+            "price":12081.50,
+            "rate":16550.00
+        },
+        {
+            "id":6,
+            "name":"HINDWARE ONE PIECE COMMODE",
+            "img":"https://plumbingbazzar.com/uploads/media/2023/P0447PW0101.jpg",
+            "text":"One piece closets Commode | 92563 (S- 220) | Size: 70.5 x 42.5 x 78.5 cm",
+            "price":12081.50,
+            "rate":16550.00
+        },
+        {
+            "id":7,
+            "name":"HINDWARE ONE PIECE COMMODE",
+            "img":"https://plumbingbazzar.com/uploads/media/2023/P0447PW0101.jpg",
+            "text":"One piece closets Commode | 92563 (S- 220) | Size: 70.5 x 42.5 x 78.5 cm",
+            "price":12081.50,
+            "rate":16550.00
+        },
+        {
+            "id":8,
+            "name":"HINDWARE ONE PIECE COMMODE",
+            "img":"https://plumbingbazzar.com/uploads/media/2023/P0447PW0101.jpg",
+            "text":"One piece closets Commode | 92563 (S- 220) | Size: 70.5 x 42.5 x 78.5 cm",
+            "price":12081.50,
+            "rate":16550.00
+        },
+        {
+            "id":9,
+            "name":"HINDWARE ONE PIECE COMMODE",
+            "img":"https://plumbingbazzar.com/uploads/media/2023/P0447PW0101.jpg",
+            "text":"One piece closets Commode | 92563 (S- 220) | Size: 70.5 x 42.5 x 78.5 cm",
+            "price":12081.50,
+            "rate":16550.00
+        },
+        {
+            "id":10,
+            "name":"HINDWARE ONE PIECE COMMODE",
+            "img":"https://plumbingbazzar.com/uploads/media/2023/P0447PW0101.jpg",
+            "text":"One piece closets Commode | 92563 (S- 220) | Size: 70.5 x 42.5 x 78.5 cm",
+            "price":12081.50,
+            "rate":16550.00
+        },
+        {
+            "id":11,
+            "name":"HINDWARE ONE PIECE COMMODE",
+            "img":"https://plumbingbazzar.com/uploads/media/2023/P0447PW0101.jpg",
+            "text":"One piece closets Commode | 92563 (S- 220) | Size: 70.5 x 42.5 x 78.5 cm",
+            "price":12081.50,
+            "rate":16550.00
+        },
+        {
+            "id":12,
+            "name":"HINDWARE ONE PIECE COMMODE",
+            "img":"https://plumbingbazzar.com/uploads/media/2023/P0447PW0101.jpg",
+            "text":"One piece closets Commode | 92563 (S- 220) | Size: 70.5 x 42.5 x 78.5 cm",
+            "price":12081.50,
+            "rate":16550.00
+        },
+        {
+            "id":13,
+            "name":"HINDWARE ONE PIECE COMMODE",
+            "img":"https://plumbingbazzar.com/uploads/media/2023/P0447PW0101.jpg",
+            "text":"One piece closets Commode | 92563 (S- 220) | Size: 70.5 x 42.5 x 78.5 cm",
+            "price":12081.50,
+            "rate":16550.00
+        },
+        {
+            "id":14,
+            "name":"HINDWARE ONE PIECE COMMODE",
+            "img":"https://plumbingbazzar.com/uploads/media/2023/P0447PW0101.jpg",
+            "text":"One piece closets Commode | 92563 (S- 220) | Size: 70.5 x 42.5 x 78.5 cm",
+            "price":12081.50,
+            "rate":16550.00
+        },
+        {
+            "id":15,
+            "name":"HINDWARE ONE PIECE COMMODE",
+            "img":"https://plumbingbazzar.com/uploads/media/2023/P0447PW0101.jpg",
+            "text":"One piece closets Commode | 92563 (S- 220) | Size: 70.5 x 42.5 x 78.5 cm",
+            "price":12081.50,
+            "rate":16550.00
+        }
+    ]
+}
+
+
+
+
+
+
+
+

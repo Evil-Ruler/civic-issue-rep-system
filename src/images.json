@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Nature",
+    "src": ""
+  },
+  {
+    "id": 2,
+    "name": "Beach",
+    "src": "beach.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mountains",
+    "src": "mountains.jpg"
+  }
+]
