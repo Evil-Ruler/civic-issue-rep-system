@@ -38,9 +38,16 @@
 
 .logo {
   height: auto;
+  width: 200px;
+}
+.log {
+  height: auto;
   width: 80px;
 }
 
+.marginswipe{
+  margin-top:300px;
+}
 .btn1 {
   color: white;
   background-color: #00aeef;
@@ -68,12 +75,6 @@
     width: 40px;
 }
 
-#my-video {
-  height: 100vh;
-  width: 100%;
-  max-width: 100%;
-  object-fit: cover;
-}
 
 .imgswiper {
   border: 1px solid transparent;
@@ -301,11 +302,6 @@ box-shadow: 0 12px 20px rgba(0, 0, 0, 0.3);
   border-radius: 16px;
 }
 
-.last-section{
-  background-image: url("./images/footerimage.png");
-      background-color: rgb(0 0 0 / 79%) !important;
-  position:relative;
-}
 
 .last-section::before{
     content: "";
@@ -534,4 +530,8 @@ color: #00aeef;
         height: 80vh;
     width: 32vw;
   }
+}
+
+.mar{
+  margin-top:300px;
 }
